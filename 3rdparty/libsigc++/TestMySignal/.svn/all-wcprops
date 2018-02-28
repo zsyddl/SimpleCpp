@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/stdafx.h
+END
+TestMySignal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/TestMySignal.cpp
+END
+TestMySignal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/TestMySignal.vcproj
+END
+sigc++config.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/sigc++config.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/TestMySignal/ReadMe.txt
+END

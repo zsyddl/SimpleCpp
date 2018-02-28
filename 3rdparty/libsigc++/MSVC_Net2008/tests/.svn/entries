@@ -1,0 +1,91 @@
+10
+
+dir
+24
+https://192.168.0.25/svn/project/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests
+https://192.168.0.25/svn/project
+
+
+
+2010-12-05T13:19:57.359375Z
+24
+zsyddl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d23001f3-5be7-714a-84ab-f095a4e813fa
+
+test_lambda
+dir
+
+test_slot
+dir
+
+PaxHeaders.5191
+dir
+
+test_functor_trait
+dir
+
+test_mem_fun
+dir
+
+test_accumulated
+dir
+
+test_trackable
+dir
+
+test_deduce_result_type
+dir
+
+test_disconnect
+dir
+
+test_exception_catch
+dir
+
+test_compose
+dir
+
+test_retype_return
+dir
+
+test_retype
+dir
+
+test_compatibility
+dir
+
+test_hide
+dir
+
+test_size
+dir
+
+test_bind_return
+dir
+
+test_bind
+dir
+
+test_ptr_fun
+dir
+
+test_signal
+dir
+
+test_disconnect_during_emit
+dir
+

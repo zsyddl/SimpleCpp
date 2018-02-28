@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug
+END
+signal_base.obj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/signal_base.obj
+END
+test_signal.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_signal.pdb
+END
+sigc-vc90-d-2_0.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.ilk
+END
+slot_base.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/slot_base.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/vc90.pdb
+END
+signal.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/signal.obj
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/BuildLog.htm
+END
+lambda.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/lambda.obj
+END
+slot.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/slot.obj
+END
+test_signal.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_signal.ilk
+END
+sigc-vc90-d-2_0.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.dll.intermediate.manifest
+END
+test_disconnect.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_disconnect.pdb
+END
+test_signal.exe
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_signal.exe
+END
+sigc-vc90-d-2_0.exp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.exp
+END
+blank.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/blank.obj
+END
+trackable.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/trackable.obj
+END
+test_disconnect.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_disconnect.ilk
+END
+sigc-vc90-d-2_0.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.pdb
+END
+sigc-vc90-d-2_0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.lib
+END
+connection.obj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/connection.obj
+END
+test_disconnect.exe
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/test_disconnect.exe
+END
+sigc.res
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc.res
+END
+sigc-vc90-d-2_0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/sigc-vc90-d-2_0.dll
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Debug/vc90.idb
+END

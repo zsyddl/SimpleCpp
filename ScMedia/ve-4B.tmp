@@ -1,0 +1,44 @@
+#pragma once
+#include "sourcefilter.h"
+
+#define FILTER_SOURCE_FFMPEG_FILE	"SourceFfmpegFile"
+
+class CFfmpegFormat ;
+class MEDIASDK_API CSourceFfmpegFile :
+	public CSourceFilter
+{
+public:
+	CSourceFfmpegFile(void);
+	virtual ~CSourceFfmpegFile(void);
+
+	virtual int Init(char *pSzParam=0);
+	virtual int DoFilter();
+	virtual int PlayPrevFrame();
+	virtual int Resume();
+	virtual int Seek(int64 s64Time);
+	virtual int SeekToTimestamp(int64 s64Timestamp);
+
+	virtual int64 GetTotalTime();
+	virtual int64 GetCurrTime();
+	virtual void GetTimeBase(int &nNum, int nDen);
+
+	virtual int  ProbMediaInfo(char *pSzFile);
+protected:
+	virtual CDataFilter* CreateObject();
+
+	CFfmpegFormat *m_pFfmpegFile;
+	CBuffer *m_pReadBuffer;
+
+	long m_lTimeLastRead;
+	long m_lTimeInc;
+	long m_nTimePerFrame; //每个帧需要等待的时间, ms
+	//最后一次读的 位置， 保存，用于在 倒转单帧播放的时候，纪录
+	int64_t m_s64LastReadFrame;
+	long m_lLastProgressTime;
+	//最后一次时间
+	int64_t m_s64LastMediaTimestamp;
+	long    m_lMediaTimeInc;
+	//int64_t m_s64StartMediaTime;
+
+	int  m_nFinishedCount;
+};

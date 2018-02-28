@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++
+END
+limit_reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/limit_reference.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/Makefile.in
+END
+connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/connection.cc
+END
+reference_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/reference_wrapper.h
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/connection.h
+END
+signal_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/signal_base.cc
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/object.h
+END
+class_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/class_slot.h
+END
+object_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/object_slot.h
+END
+retype_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/retype_return.h
+END
+signal_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/signal_base.h
+END
+type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/type_traits.h
+END
+retype.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/retype.h
+END
+hide.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/hide.h
+END
+bind_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/bind_return.h
+END
+sigc++.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/sigc++.h
+END
+signal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/signal.cc
+END
+bind.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/bind.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/signal.h
+END
+visit_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/visit_each.h
+END
+method_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/method_slot.h
+END
+filelist.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/filelist.am
+END
+slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/slot.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/Makefile.am
+END
+trackable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/trackable.cc
+END
+trackable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/trackable.h
+END

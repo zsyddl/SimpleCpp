@@ -1,0 +1,82 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<pre>
+<table width=100% bgcolor=#CFCFE5><tr> <td> <font face=宋体 size=+3>
+生成日志
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+<h3>------- 已启动生成: 项目: test_signal，配置: Debug|Win32 -------
+</h3>
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+命令行
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>正在创建临时文件“h:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\tests\test_signal\Debug\RSP000001.rsp”，其内容为
+[
+/Od /I "H:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\\" /I "H:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\\.." /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Gm /EHsc /RTC1 /MDd /GR /Fo"Debug/" /Fd"Debug/vc70.pdb" /W3 /c /Wp64 /ZI /TP
+"\works\Scenery\depends\libsigc++-2.2.8\tests\test_signal.cc"
+]
+正在创建命令行“cl.exe @"h:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\tests\test_signal\Debug\RSP000001.rsp" /nologo”
+正在创建临时文件“h:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\tests\test_signal\Debug\RSP000002.rsp”，其内容为
+[
+/OUT:"../bin/test_signal.exe" /INCREMENTAL /NOLOGO /DEBUG /PDB:"Debug/test_signal.pdb" /SUBSYSTEM:CONSOLE /MACHINE:X86 kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\Debug\sigc-vc80-d-2_0.lib"
+".\Debug\blank.obj"
+".\Debug\test_signal.obj"
+]
+正在创建命令行“link.exe @"h:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\tests\test_signal\Debug\RSP000002.rsp"”
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+输出窗口
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>正在编译...
+test_signal.cc
+h:\works\Scenery\depends\libsigc++-2.2.8\tests\test_signal.cc(42) : warning C4267: “参数” : 从“size_t”转换到“unsigned int”，可能丢失数据
+h:\works\Scenery\depends\libsigc++-2.2.8\tests\test_signal.cc(45) : warning C4267: “参数” : 从“size_t”转换到“unsigned int”，可能丢失数据
+h:\works\Scenery\depends\libsigc++-2.2.8\sigc++\adaptors\adaptor_trait.h(82) : warning C4244: “参数” : 从“const int”转换到“const float”，可能丢失数据
+        h:\works\Scenery\depends\libsigc++-2.2.8\sigc++\functors\slot.h(137) : 参见对正在编译的函数模板实例化“sigc::adaptor_functor<T_functor>::deduce_result_type<T_arg1,T_arg2,T_arg3,T_arg4,T_arg5,T_arg6,T_arg7>::type sigc::adaptor_functor<T_functor>::operator ()<sigc::type_trait<T_type>::take>(T_arg1) const”的引用
+        with
+        [
+            T_functor=sigc::adaptor_trait<sigc::pointer_functor1<float,int>>::functor_type,
+            T_arg1=sigc::type_trait<int>::take,
+            T_arg2=void,
+            T_arg3=void,
+            T_arg4=void,
+            T_arg5=void,
+            T_arg6=void,
+            T_arg7=void,
+            T_type=int
+        ]
+        h:\works\Scenery\depends\libsigc++-2.2.8\sigc++\functors\slot.h(133) : 编译类模板成员函数“int sigc::internal::slot_call1<T_functor,T_return,T_arg1>::call_it(sigc::internal::slot_rep *,sigc::type_trait<T_type>::take)”时
+        with
+        [
+            T_functor=sigc::pointer_functor1<float,int>,
+            T_return=int,
+            T_arg1=int,
+            T_type=int
+        ]
+        h:\works\Scenery\depends\libsigc++-2.2.8\sigc++\functors\slot.h(529) : 参见对正在编译的类模板实例化“sigc::internal::slot_call1<T_functor,T_return,T_arg1>”的引用
+        with
+        [
+            T_functor=sigc::pointer_functor1<float,int>,
+            T_return=int,
+            T_arg1=int
+        ]
+        h:\works\Scenery\depends\libsigc++-2.2.8\sigc++\functors\slot.h(1156) : 参见对正在编译的函数模板实例化“sigc::slot1<T_return,T_arg1>::slot1<T_functor>(const T_functor &)”的引用
+        with
+        [
+            T_return=int,
+            T_arg1=int,
+            T_functor=sigc::pointer_functor1<float,int>
+        ]
+        h:\works\Scenery\depends\libsigc++-2.2.8\tests\test_signal.cc(40) : 参见对正在编译的函数模板实例化“sigc::slot<T_return,T_arg1>::slot<sigc::pointer_functor1<float,T_return>>(const T_functor &)”的引用
+        with
+        [
+            T_return=int,
+            T_arg1=int,
+            T_functor=sigc::pointer_functor1<float,int>
+        ]
+正在链接...
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+结果
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+生成日志保存在“file://h:\works\Scenery\depends\libsigc++-2.2.8\MSVC_Net2005\tests\test_signal\Debug\BuildLog.htm”中
+test_signal - 0 错误，3 警告</pre></table><table   width=100% height=20 bgcolor=#CFCFE5><tr><td><font face=宋体 size=+2>
+</font></table></body></html>

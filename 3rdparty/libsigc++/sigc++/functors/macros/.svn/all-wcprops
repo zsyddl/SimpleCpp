@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/macros
+END
+ptr_fun.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/macros/ptr_fun.h.m4
+END
+slot.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/macros/slot.h.m4
+END
+functor_trait.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/macros/functor_trait.h.m4
+END
+mem_fun.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/macros/mem_fun.h.m4
+END

@@ -1,0 +1,19 @@
+#pragma once
+#include "Scp.h"
+#include "MessageHandler.h"
+#include "MessageProcessor.h"
+
+using namespace SimpleCpp;
+
+class CTestMessageProcessor :
+	public CMessageProcessor
+{
+public:
+	CTestMessageProcessor(void);
+	virtual ~CTestMessageProcessor(void);
+
+	int OnMessage(CMessage *pMessage);
+
+
+	virtual CMessageProcessor*	CreateObject(){return new CTestMessageProcessor();};
+};

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors
+END
+slot_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/slot_base.cc
+END
+slot_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/slot_base.h
+END
+ptr_fun.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/ptr_fun.h
+END
+slot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/slot.cc
+END
+slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/slot.h
+END
+functor_trait.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/functor_trait.h
+END
+functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/functors.h
+END
+mem_fun.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/functors/mem_fun.h
+END

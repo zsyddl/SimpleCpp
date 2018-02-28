@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors
+END
+bound_argument.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/bound_argument.h
+END
+hide.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/hide.h
+END
+bind_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/bind_return.h
+END
+bind.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/bind.h
+END
+adaptor_trait.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/adaptor_trait.h
+END
+adaptors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/adaptors.h
+END
+exception_catch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/exception_catch.h
+END
+compose.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/compose.h
+END
+retype_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/retype_return.h
+END
+deduce_result_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/deduce_result_type.h
+END
+retype.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/retype.h
+END

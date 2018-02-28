@@ -1,0 +1,83 @@
+#-------------------------------------------------
+#
+# Project created by QtCreator 2013-01-10T14:38:45
+#
+#-------------------------------------------------
+
+QT       += core gui opengl
+
+TARGET = VivsPlaySdk
+TEMPLATE = lib
+
+DEFINES += OS_LINUX VIVSMEDIABOX_EXPORTS VIVSPLAYSDK_EXPORTS
+
+INCLUDEPATH += ./GeneratedFiles \
+    ./GeneratedFiles/Debug \
+    . \
+    ./3rdparty\SThread\include \
+    ./3rdparty\ffmpeg\include \
+
+
+unix:!symbian {
+    maemo5 {
+        target.path = /opt/usr/lib
+    } else {
+        target.path = /usr/lib
+    }
+    INSTALLS += target
+}
+
+LIBS += -L./3rdparty/SThread/lib \
+        -L./3rdparty/ffmpeg/lib \
+        -lavformat-54  \
+        -lavutil-51  \
+        -lavcodec-54 \
+        -lglew32  \
+        -lSThread
+
+HEADERS += \
+    VivsMediaBox.h \
+    DataFilter.h \
+    Buffer.h \
+    PackageParser.h \
+    Decoder.h \
+    Render.h \
+    StreamBuilder.h \
+    VivsMediaFile.h \
+    FfmpegFormat.h \
+    FfmpegCodec.h \
+    VideoFrame.h \
+    ParserH264.h \
+    ParserVivsH264.h \
+    QtGlRender.h \
+    H264Decoder.h \
+    ParserPsH264.h \
+    glwindow.h \
+    VivsPlaySdk.h
+
+win32 {
+HEADERS += \
+    stdafx.h \
+}
+
+SOURCES += \
+    VivsMediaBox.cpp \
+    stdafx.cpp \
+    DataFilter.cpp \
+    Buffer.cpp \
+    MediaStream.cpp \
+    Render.cpp \
+    PackageParser.cpp \
+    Decoder.cpp \
+    StreamBuilder.cpp \
+    VivsMediaFile.cpp \
+    FfmpegFormat.cpp \
+    FfmpegCodec.cpp \
+    VideoFrame.cpp \
+    ParserH264.cpp \
+    ParserVivsH264.cpp \
+    QtGlRender.cpp \
+    H264Decoder.cpp \
+    ParserPsH264.cpp \
+    glwindow.cpp \
+    VivsPlaySdk.cpp

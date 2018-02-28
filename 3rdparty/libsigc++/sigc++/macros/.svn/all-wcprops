@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros
+END
+limit_reference.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/limit_reference.h.m4
+END
+signal.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/signal.h.m4
+END
+method_slot.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/method_slot.h.m4
+END
+slot.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/slot.h.m4
+END
+class_slot.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/class_slot.h.m4
+END
+object_slot.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/object_slot.h.m4
+END
+retype.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/retype.h.m4
+END
+template.macros.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/template.macros.m4
+END
+hide.h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/macros/hide.h.m4
+END

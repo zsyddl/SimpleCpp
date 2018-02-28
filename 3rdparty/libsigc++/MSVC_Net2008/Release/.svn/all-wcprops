@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release
+END
+signal_base.obj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/signal_base.obj
+END
+slot_base.obj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/slot_base.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/vc90.pdb
+END
+signal.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/signal.obj
+END
+sigc-vc90-2_0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/sigc-vc90-2_0.lib
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/BuildLog.htm
+END
+lambda.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/lambda.obj
+END
+slot.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/slot.obj
+END
+sigc-vc90-2_0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/sigc-vc90-2_0.dll
+END
+blank.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/blank.obj
+END
+trackable.obj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/trackable.obj
+END
+connection.obj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/connection.obj
+END
+sigc-vc90-2_0.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/sigc-vc90-2_0.dll.intermediate.manifest
+END
+sigc.res
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/sigc.res
+END
+sigc-vc90-2_0.exp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/sigc-vc90-2_0.exp
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/Release/vc90.idb
+END

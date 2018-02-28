@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/base.h
+END
+operator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/operator.h
+END
+group.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/group.h
+END
+lambda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/lambda.cc
+END
+select.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/select.h
+END
+lambda.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/adaptors/lambda/lambda.h
+END

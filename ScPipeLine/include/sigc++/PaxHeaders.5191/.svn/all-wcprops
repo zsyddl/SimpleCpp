@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191
+END
+limit_reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/limit_reference.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/Makefile.in
+END
+connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/connection.cc
+END
+macros
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/macros
+END
+reference_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/reference_wrapper.h
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/connection.h
+END
+signal_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/signal_base.cc
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/object.h
+END
+class_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/class_slot.h
+END
+object_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/object_slot.h
+END
+retype_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/retype_return.h
+END
+signal_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/signal_base.h
+END
+type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/type_traits.h
+END
+retype.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/retype.h
+END
+hide.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/hide.h
+END
+bind_return.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/bind_return.h
+END
+sigc++.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/sigc++.h
+END
+signal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/signal.cc
+END
+bind.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/bind.h
+END
+functors
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/functors
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/signal.h
+END
+visit_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/visit_each.h
+END
+method_slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/method_slot.h
+END
+filelist.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/filelist.am
+END
+slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/slot.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/Makefile.am
+END
+trackable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/trackable.cc
+END
+adaptors
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/adaptors
+END
+trackable.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/sigc++/PaxHeaders.5191/trackable.h
+END

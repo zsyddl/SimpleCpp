@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191
+END
+test_lambda
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_lambda
+END
+test_slot
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_slot
+END
+test_functor_trait
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_functor_trait
+END
+test_mem_fun
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_mem_fun
+END
+test_accumulated
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_accumulated
+END
+test_deduce_result_type
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_deduce_result_type
+END
+test_trackable
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_trackable
+END
+test_disconnect
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_disconnect
+END
+test_exception_catch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_exception_catch
+END
+test_compose
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_compose
+END
+test_retype_return
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_retype_return
+END
+test_retype
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_retype
+END
+test_hide
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_hide
+END
+test_compatibility
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_compatibility
+END
+test_size
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_size
+END
+test_bind_return
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_bind_return
+END
+test_bind
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_bind
+END
+test_ptr_fun
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_ptr_fun
+END
+test_signal
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_signal
+END
+test_disconnect_during_emit
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/MSVC_Net2008/tests/PaxHeaders.5191/test_disconnect_during_emit
+END

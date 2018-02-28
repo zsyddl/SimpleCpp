@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests
+END
+test_limit_reference.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_limit_reference.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/Makefile.in
+END
+test_exception_catch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_exception_catch.cc
+END
+test_compose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_compose.cc
+END
+test_retype_return.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_retype_return.cc
+END
+test_bind_ref.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_bind_ref.cc
+END
+test_retype.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_retype.cc
+END
+test_hide.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_hide.cc
+END
+test_custom.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_custom.cc
+END
+test_size.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_size.cc
+END
+test_bind_return.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_bind_return.cc
+END
+test_accum_iter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_accum_iter.cc
+END
+test_bind.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_bind.cc
+END
+test_ptr_fun.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_ptr_fun.cc
+END
+test_signal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_signal.cc
+END
+test_disconnect_during_emit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_disconnect_during_emit.cc
+END
+test_lambda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_lambda.cc
+END
+test_copy_invalid_slot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_copy_invalid_slot.cc
+END
+test_slot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_slot.cc
+END
+test_functor_trait.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_functor_trait.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/Makefile.am
+END
+test_mem_fun.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_mem_fun.cc
+END
+test_accumulated.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_accumulated.cc
+END
+test_deduce_result_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_deduce_result_type.cc
+END
+test_trackable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_trackable.cc
+END
+test_disconnect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_disconnect.cc
+END
+test_slot_disconnect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/24/Scenery/depends/libsigc++-2.2.8/tests/test_slot_disconnect.cc
+END

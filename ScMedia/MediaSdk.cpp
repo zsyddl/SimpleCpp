@@ -1,0 +1,25 @@
+// VivsMediaBox.cpp : 定义 DLL 应用程序的导出函数。
+//
+
+#include "StdAfx.h"
+#include "MediaSdk.h"
+
+/*#include "FilterPin.h"*/
+#include "MediaFilter.h"
+
+
+// 这是导出变量的一个示例
+MEDIASDK_API int nVivsMediaBox=0;
+
+// 这是导出函数的一个示例。
+MEDIASDK_API int fnVivsMediaBox(void)
+{
+	return 42;
+}
+
+// 这是已导出类的构造函数。
+// 有关类定义的信息，请参阅 VivsMediaBox.h
+CVivsMediaBox::CVivsMediaBox()
+{
+	return;
+}
